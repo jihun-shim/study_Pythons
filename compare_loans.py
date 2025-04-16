@@ -28,4 +28,3 @@ print('')
 #
 print(loan_products)
 
-##
