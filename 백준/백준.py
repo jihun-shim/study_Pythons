@@ -82,9 +82,11 @@
 # else :
 #     print(0)   
 
-x = int(input())
-y = int(input())
+# x = int(input())
+# y = int(input())
 
-if x>12 and y>5:
-    print(1)
-elif     
+# if x>12 and y>5:
+#     print(1)
+# elif     
+
+m,n = map(int, input().split())
